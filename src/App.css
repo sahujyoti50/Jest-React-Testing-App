@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+input{
+  padding:15px;
+  border-radius: 10px;
+  border:2px solid rgb(96, 93, 93);
+  box-shadow: 5px 5px 5px rgb(159, 160, 169);
+}
+button{
+  border:transparent;
+  background-color: rgb(81, 76, 80);
+  padding:15px;
+  margin:5px;
+  color:white;
+  border-radius: 10px;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:18px;
+  box-shadow: 5px 5px 5px rgb(184, 186, 203);
+}
+p{
+  font-size:18px;
+  font-family:Arial, Helvetica, sans-serif;
+}
